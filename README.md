@@ -1,6 +1,6 @@
 
 # Hỗ trợ cho 120 Câu Hỏi Mô Phỏng GPLX - Tiếng Việt
-### Thông tin liên hệ trực tiếp nếu bạn gặp sự cố khi sư dung ứn dụng:
+### Thông tin liên hệ trực tiếp nếu bạn gặp sự cố khi sử dụng ứng dụng:
 - Email: hosituan.work@gmail.com
 - SĐT: 0983 494 681 (Zalo, WhatsApp)
 - Địa chỉ: Tp Hồ Chí Minh
